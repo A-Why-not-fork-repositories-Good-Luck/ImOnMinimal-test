@@ -1,7 +1,3 @@
-// let body = document.querySelector("body");
-// body.style.padding = "0";
-// body.style.margin = "0";
-// body.style.backgroundColor = "#D3D4D9"
 
 
 
